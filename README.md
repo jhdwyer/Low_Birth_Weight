@@ -3,7 +3,7 @@
 ![header](images/baby.jpg)
 
 ## Overview
-To help Kaiser Permanente determine how to identify areas that need higher level NICUs, the goal of this project is to predict the percentage of low birth weight (LBW) births in California census tracts based off their population characteristics and environmental health hazards. The models are evaluated using RMSE scores and R-Squared scores.
+To help Kaiser Permanente determine how to identify areas that need higher level NICUs, the goal of this project is to predict the percentage of low birth weight (LBW) births in California census tracts based off their population characteristics and environmental health hazards. The models are evaluated using RMSE scores and R-Squared scores. To view the presentation for this project please click [here](https://docs.google.com/presentation/d/15-4TvndWWEJfAXv9I0eHw-33lerOmyMUXFsoXr8ynWI/edit?usp=sharing).
 
 ## Background Information
 
