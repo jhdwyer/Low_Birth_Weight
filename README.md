@@ -69,6 +69,7 @@ Some future steps to improve this project include:
 ├── experiment_notebooks
 ├── images
 ├── final_notebook
-├── presentation.pdf
-└── README.md
+├── README.md
+└── presentation.pdf
+
 ```
