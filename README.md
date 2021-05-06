@@ -30,7 +30,7 @@ The data included information for 8,035 California census tracts with 56 columns
 Statistical tests and visualizations are run to further analyze the data, especially for features which have been shown to be linked to LBWs as stated above. Statistical t-tests are run to determine if certain groups' mean LBW percentages were statistically different. Boxplots and bar graphs are created to further explore the statistically different groups. 
 
 **Ethnicity**
-![ethnicity](images/ethnicity.png)
+![ethnicity](images/ethnicity_fixed.png)
 
 The graph shows that populations with "more" Hispanics, African Americans, and Asian Americans have a higher mean LBW percentage. On the contrary, populations with "more" Caucasians have a lower mean LBW%.
 
