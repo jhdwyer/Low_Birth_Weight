@@ -12,7 +12,7 @@ Babies born at LBW are babies born at less than 5.5lbs. Two reasons why babies a
 (To visit the source of information, or to read more about LBW, please visit the site [here](https://www.marchofdimes.org/complications/low-birthweight.aspx))
 
 ### Why population characteristics?
-Certain population characteristics have been associated with LBWs including education and ethnicity. Women with less education have been linked to an increased risk of LBW newborns [(Study).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3349660/). Additionally, Certain ethnicities have been shown to have an increase risk for LBWs [(Source).](https://www.marchofdimes.org/peristats/Peristats.aspx)
+Certain population characteristics have been associated with LBWs including education and ethnicity. Women with less education have been linked to an increased risk of LBW newborns [(Study).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3349660/) Additionally, Certain ethnicities have been shown to have an increase risk for LBWs [(Source).](https://www.marchofdimes.org/peristats/Peristats.aspx)
 
 ### Why environmental health hazards?
 Certain environmental health hazards have been linked to increase risks of LBW newborns. Particulate matter exposure during pregnancy has been associated with LBWs in newborns [(Study).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913584/) LBW has been shown to be linked with exposure to air pollutants from vehicle emissions [(Study).](https://pubmed.ncbi.nlm.nih.gov/22586068/) Additionally, studies have indicated that pregnant women living near cleanup sites have an increased chance of having a low birth weight male [(Study).](https://pubmed.ncbi.nlm.nih.gov/12896858/)
