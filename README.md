@@ -56,31 +56,6 @@ The model that performed the best was a linear regression model using the select
 
 ![residuals](images/residuals_2.png)
 
-## Correlation Inferences
-Being able to detect which features cause lbws is extremely beneficial for trying to minimize lbw percentages. Since a causal inference model is not run, statements regarding which features cause lbw cannot be stated at this time. Despite this, looking into which features are highly correlated with lbw and determining if these features are present in the significant features from the selected RFE can lead to correlation inferences.
-
-**Population Characteristics**
-
-The top 3 population characteristics features with the highest positive correlation values are listed below: 
- 1. African American 
- 2. Education 
- 3. Housing Burden 
- 
-When looking at how many times these features are present in an interaction in the significant selected rfe features African American is present 6 times, education 2 times, and housing burden 2 times. 
-
-**Environmental Characteristics**
-
-The top 3 environmental characteristics features with the highest positive correlation values are listed below:
- 1. Pollution Burden Score 
- 2. Ozone 
- 3. PM 2.5 
- 
-When looking at how many times these features are present in an interaction in the significant selected rfe features pollution burden score is not present, ozone is present 4 times, and PM2.5 1 time. Interestingly, even though pollution burden score has the highest correlation with low birth weight out of environmental characteristics, pollution burden score is not present in the significat selected rfe.
-
-## Conclusion
-The RFE model is deemed the best model due to its lower RMSE score and higher R-Squared score. African American, education, housing burden, ozone, and PM 2.5 are positively correlated with lbw percentages.
-
-
 ## Next Steps: 
 Some future steps to improve this project include:
   - Adding in clustering to help with predictions
