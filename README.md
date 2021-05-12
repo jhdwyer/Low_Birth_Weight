@@ -67,8 +67,10 @@ Some future steps to improve this project include:
 ```
 ├── data
 ├── experiment_notebooks
-├── final_notebook
 ├── images
+├── Data_Preparation.ipynb
+├── Exploratory_Data_Analysis_and_Feature_Engineering.ipynb
+├── Models.ipynb
 ├── README.md
 └── presentation.pdf
 
